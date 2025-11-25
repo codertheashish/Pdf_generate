@@ -35,7 +35,7 @@ python converter.py
 2️⃣ **Clone the Repo**
 
 ```bash
-https://github.com/codertheashish/Arc_Chatbot.git
+https://github.com/codertheashish/Pdf_generate.git
 ```
 
 
