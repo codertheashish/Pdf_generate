@@ -21,7 +21,7 @@ Perfect for students, developers, automation tasks, and real-world utility proje
 * 🧪 Convert Jupyter Notebook (.ipynb) → PDF
 * 📃 Automatically handles long content with page breaks
 * ⚡ Fast, lightweight, offline — no internet needed
-* 💯 100% working, clean PDF output every time
+* 💯 100% working , clean PDF output every time
 
 ---
 
